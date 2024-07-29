@@ -1,0 +1,20 @@
+name: brick_gui
+description: A starting point for Dart libraries or applications.
+version: 1.0.0
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: ^3.4.3
+
+# Add regular dependencies here.
+dependencies:
+  # path: ^1.8.0
+  dart_eval: ^0.7.9
+  eval_ex: ^1.1.8
+  flex_color_picker: ^3.5.1
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  lints: ^4.0.0
+  test: ^1.25.0
